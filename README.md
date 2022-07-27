@@ -14,3 +14,5 @@
 ->NumPy arrays have a fixed size at creation, unlike Python lists which can grow dynamically.<br>
 ->Elements in a numpy array are required to be of the same datatype unlike lists which are hetrogeneous.<br>
 ->We can use advanced mathematics on numpy arrays whereas these don't work on lists.<br>
+
+For furthur information corresponding to numpy visit https://numpy.org/doc/stable/user/index.html#user
