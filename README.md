@@ -1,6 +1,6 @@
 <h2>What is Numpy?</h2>
 ->It is a Python library that provides a multidimensional array object such as a matrix or a masked array.<br>
-->It also provides a variety of fast operations whuch can be done on these arrays to derive udeful information.<br>
+->It also provides a variety of fast operations which can be done on these arrays to derive useful information.<br>
 ->At the core of the NumPy package, is the ndarray object.<br>
 ->This encapsulates n-dimensional arrays of homogeneous data types.<br>
 
